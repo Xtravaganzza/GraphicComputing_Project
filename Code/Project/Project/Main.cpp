@@ -238,7 +238,7 @@ int main()
 	Shader SkyBoxshader("Shaders/SkyBox.vs", "Shaders/SkyBox.frag");
 
 	//Model Casa((char*)"Models/House/house.obj");
-	Model TMP((char*)"Models/Tmp/tmp.obj");
+	Model House((char*)"Models/House/house_.obj");
 	//Model Windows((char*)"Models/Windows/windows.obj");
 	//Model MailBox((char*)"Models/Mailbox/mailbox.obj");
 	Model Sled((char*)"Models/Sled/sled.obj");
@@ -701,7 +701,7 @@ int main()
 
 		model = glm::mat4(1);
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		TMP.Draw(lightingShader);
+		House.Draw(lightingShader);
 
 
 		model = glm::mat4(1);
