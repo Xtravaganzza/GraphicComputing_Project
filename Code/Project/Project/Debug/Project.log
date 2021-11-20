@@ -1,0 +1,59 @@
+﻿  Main.cpp
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(469,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(500,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(501,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(502,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(504,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(505,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(506,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(595,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(596,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(597,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(1078,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(1079,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(1083,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(1084,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(1086,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Project\Main.cpp(1087,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(etc1_utils.obj)' or at 'D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_DXT.obj)' or at 'D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_helper.obj)' or at 'D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(SOIL2.obj)' or at 'D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Debug\soil2-debug.pdb'; linking object as if no debug info
+  Project.vcxproj -> D:\Documentos\Github\Graphic_Computing_Project\Code\Project\Debug\Project.exe

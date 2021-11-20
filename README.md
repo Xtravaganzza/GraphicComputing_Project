@@ -1,2 +1,2 @@
-# GraphicComputing_Project
-In this repository I will store all the documents related to my graphic computing project.
+# Graphic_Computing_Project
+This repository will contain all the files related to my Graphic Computer Course Project.
